@@ -1,1 +1,1 @@
-用smarty框架实现
+#用smarty框架实现
